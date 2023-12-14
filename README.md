@@ -15,5 +15,7 @@ html, css, javescript
 # 2023.12.15
 제출 파일 branch : master, 리드미 branch : main이어서 2개 branch를 merge하는 방법을 찾는 중...
 
+12:29 --- 그냥 master 브랜치에 리드미 파일을 추가함 merge 하는 방법은... 아직도 찾는중
+
 # cf.
 EDUCATION에 연계전공 적혀있는데 23년 12월 기준 신청대상 아니라서 해당없고 내년 초에 신청 예정
