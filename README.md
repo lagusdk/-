@@ -2,10 +2,9 @@
 
 # 인터넷활용
 
-1학년 2학기 교양선택 "인터넷활용" 
+1학년 2학기 교양선택 "인터넷활용" 기말과제 백업용 레포입니다...:D 
 
-기말과제 백업용 레포입니다...:D 
-
+# PC
 https://lagusdk.github.io/Internet-Application-Assignment/main.html
 
 # 사용 언어
